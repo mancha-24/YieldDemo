@@ -1,0 +1,15 @@
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/bin/Debug/net6.0/YieldDemo
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/bin/Debug/net6.0/YieldDemo.deps.json
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/bin/Debug/net6.0/YieldDemo.runtimeconfig.json
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/bin/Debug/net6.0/YieldDemo.dll
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/bin/Debug/net6.0/YieldDemo.pdb
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/obj/Debug/net6.0/YieldDemo.csproj.AssemblyReference.cache
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/obj/Debug/net6.0/YieldDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/obj/Debug/net6.0/YieldDemo.AssemblyInfoInputs.cache
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/obj/Debug/net6.0/YieldDemo.AssemblyInfo.cs
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/obj/Debug/net6.0/YieldDemo.csproj.CoreCompileInputs.cache
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/obj/Debug/net6.0/YieldDemo.dll
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/obj/Debug/net6.0/refint/YieldDemo.dll
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/obj/Debug/net6.0/YieldDemo.pdb
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/obj/Debug/net6.0/YieldDemo.genruntimeconfig.cache
+/Users/manuel.chavez/Documents/3-NET/Practices/YieldDemo/obj/Debug/net6.0/ref/YieldDemo.dll
