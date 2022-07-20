@@ -5,7 +5,7 @@ int i = 0;
 
 foreach (var line in lines)
 {
-    if(i >= 3)
+    if(i >= 5)
     {
         break;
     }
@@ -13,7 +13,7 @@ foreach (var line in lines)
     i++;
     Console.WriteLine(line);
 }
-
+Console.WriteLine("hola");
 
 static IEnumerable<string> GetFileLines()
 {
@@ -21,7 +21,7 @@ static IEnumerable<string> GetFileLines()
     using var stream = new FileStream(baseDir, FileMode.Open, FileAccess.Read);
     using var reader = new StreamReader(stream);
 
-    string line = null;
+    string? line = string.Empty;
     do
     {
         line = reader.ReadLine();
